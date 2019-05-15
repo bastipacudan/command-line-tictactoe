@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bastipacudan/command-line-tictactoe#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "inquirer": "^6.3.1"
   }
 }
