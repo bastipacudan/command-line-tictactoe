@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bastipacudan/command-line-tictactoe/issues"
   },
-  "homepage": "https://github.com/bastipacudan/command-line-tictactoe#readme"
+  "homepage": "https://github.com/bastipacudan/command-line-tictactoe#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
